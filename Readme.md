@@ -4,3 +4,4 @@
 #### Docker 위에서 파일 복사 : https://itholic.github.io/docker-copy/  https://www.leafcats.com/163
 #### Docker 명령어 : https://watch-n-learn.tistory.com/19
 #### Docker elasticsearch.yml 위치 : https://stackoverflow.com/questions/61230854/where-is-my-elasticsearch-yml-in-my-docker-image
+#### Docker logstash 설치 : https://wedul.site/571
