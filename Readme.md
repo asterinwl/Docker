@@ -7,3 +7,4 @@
 #### Docker elasticsearch.yml 위치 : https://stackoverflow.com/questions/61230854/where-is-my-elasticsearch-yml-in-my-docker-image
 #### Docker logstash 설치 : https://wedul.site/571
 #### 한국어 분석기 아리랑 docker설치방법 : https://ahngo13.github.io/elasticsearch-arirang/
+#### service: command not found... : https://algo79.tistory.com/entry/service-command-not-found (yum -y install initscripts)
